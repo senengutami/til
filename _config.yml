@@ -2,11 +2,11 @@
 title:              "Today I Learned"
 description:        "Learn something new every day, make your brain bigger!
 "
-author_name:        "Aadesh Shrestha" # change this to your name
-logo_url:           https://avatars1.githubusercontent.com/u/4538948?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+author_name:        "Seneng Utami" # change this to your name
+logo_url:           https://avatars.githubusercontent.com/u/64877839?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://til.aadeshshrestha.com.np # main url
+url:                https://senengutami.github.io/til # main url
 baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Asia/Kathmandu # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
