@@ -14,3 +14,9 @@
 	<span class="logo-prompt code">{{ prompt }}</span>
 
 </aside>
+
+{% if page.url == '/index.html' or page.url == '/' %}
+	<section>
+		<h1 class="title">Today I Learned</h1>
+	</section>
+{% endif %}
